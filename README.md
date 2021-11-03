@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @SulochanaEranda
+- 👀 I’m interested in tech ...
+- 🌱 I’m currently learning ...
+<!---
+SulochanaEranda/ I am Youtuber,Programmer,Video Editor and more.I like to be a software engineer.
+--->
