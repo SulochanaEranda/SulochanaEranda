@@ -13,10 +13,6 @@ You can use the website to generate badges: https://shields.io/
 -  📫 Contact Me on Telegram (@sulochanaeranda) : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
 
-
-[![Code Palace](https://img.shields.io/youtube/channel/subscribers/UC5IYkZ7nMXDHIwE_mg6wRfg?label=Cyber%20Tracker&style=social)](https://www.youtube.com/UC5IYkZ7nMXDHIwE_mg6wRfg/videos)
-
-
 ### My Github Status
 ![sulochanaeranda's GitHub Status](https://github-readme-stats.vercel.app/api?username=sulochanaeranda&theme=dark&show_icons=true)
 
@@ -24,6 +20,8 @@ You can use the website to generate badges: https://shields.io/
 
 
 <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sulochanaeranda&theme=alduin" alt="sulochanaeranda" /></a> </p>
+<a href="https://app.daily.dev/sulochanaeranda"><img src="https://api.daily.dev/devcards/b4ebc84e09944b08815c280e67394f40.png?r=t62" width="400" alt="Sulochana Eranda's Dev Card"/></a>
+
 
 
 
