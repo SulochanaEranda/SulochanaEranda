@@ -9,7 +9,6 @@ You can use the website to generate badges: https://shields.io/
 -  🔭 I’m currently working on : The Serioum 👻 Corporation  <br>
 -  📚 I went to :  Pinnawala Central College  <br>
 -  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
--  🤔 I’m looking for help : For  Me  <br>
 -  ⚡ I'm  ![age](https://img.shields.io/badge/Age-14-yellow) 😄
 -  📫 Contact Me on Telegram (@sulochanaeranda) : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
