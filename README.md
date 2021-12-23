@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-[![Code Palace](https://img.shields.io/youtube/channel/subscribers/UC5IYkZ7nMXDHIwE_mg6wRfg?label=Cyber%20Tracker&style=social)](https://www.youtube.com/c/UC5IYkZ7nMXDHIwE_mg6wRfg/videos)
+[![Code Palace](https://img.shields.io/youtube/channel/subscribers/UC5IYkZ7nMXDHIwE_mg6wRfg?label=Cyber%20Tracker&style=social)](https://www.youtube.com/UC5IYkZ7nMXDHIwE_mg6wRfg/videos)
 
 
 ### My Github Status
@@ -63,7 +63,7 @@ You can use the website to generate badges: https://shields.io/
 # CONTACT ME ON
 
 <p align="left">
-<a href="https://t.me/cybertracker" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://t.me/cybertrackerofficial" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UC5IYkZ7nMXDHIwE_mg6wRfg" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
